@@ -6,8 +6,6 @@ something to write
 
 ### another headline
 
-another text here.
-
 #### fourth headline
 
 .md = marked down to know headlines
@@ -33,3 +31,5 @@ alert(name);
 this text will be **bold** and this is _cursive_ /one \* for cursive
 
 if you want to highligh the term, use backticks like `that`
+
+:gorilla:
